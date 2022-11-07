@@ -40,7 +40,7 @@ const StyledHeader = styled.div`
   height: 80%;
   border-radius: 0;
   z-index: -1;
-  bottom: 374px;
+  bottom: 400px;
   position: absolute;
   } 
 
